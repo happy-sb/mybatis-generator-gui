@@ -3,7 +3,9 @@ package com.zzg.mybatis.generator.view;
 import javafx.scene.control.Alert;
 
 /**
- * Created by Owen on 6/21/16.
+ *
+ * @author Owen
+ * @date 6/21/16
  */
 public class AlertUtil {
 

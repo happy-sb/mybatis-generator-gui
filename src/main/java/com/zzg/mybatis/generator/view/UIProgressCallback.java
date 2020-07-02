@@ -6,7 +6,9 @@ import javafx.scene.control.Alert;
 import org.mybatis.generator.api.ProgressCallback;
 
 /**
- * Created by Owen on 6/21/16.
+ *
+ * @author Owen
+ * @date 6/21/16
  */
 public class UIProgressCallback extends Alert implements ProgressCallback  {
 

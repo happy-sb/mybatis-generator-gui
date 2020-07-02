@@ -8,9 +8,9 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<BorderPane prefHeight="613.0" prefWidth="918.0" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.zzg.mybatis.generator.controller.MainUIController">
+<BorderPane prefHeight="700.0" prefWidth="1190.0" stylesheets="@../style.css" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.zzg.mybatis.generator.controller.MainUIController">
     <top>
-        <VBox>
+        <VBox prefHeight="20.0" prefWidth="896.0">
             <children>
                 <ToolBar minHeight="70.0" prefHeight="81.0" prefWidth="918.0" BorderPane.alignment="CENTER">
                     <items>
@@ -39,7 +39,7 @@
             <items>
                 <AnchorPane maxWidth="500.0" minWidth="100.0" prefHeight="618.0" prefWidth="200.0">
                     <children>
-                        <TreeView fx:id="leftDBTree" layoutX="-14.0" maxWidth="0.0" prefHeight="545.0" prefWidth="126.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+                        <TreeView fx:id="leftDBTree" layoutX="-14.0" maxWidth="247.0" prefHeight="635.0" prefWidth="182.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="-7.0" AnchorPane.topAnchor="0.0" />
                     </children>
                 </AnchorPane>
             <AnchorPane minWidth="400.0">

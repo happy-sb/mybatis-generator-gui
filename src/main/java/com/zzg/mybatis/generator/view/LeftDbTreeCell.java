@@ -11,7 +11,9 @@ import javafx.scene.layout.HBox;
 import java.lang.ref.WeakReference;
 
 /**
- * Created by Owen on 6/14/16.
+ *
+ * @author Owen
+ * @date 6/14/16
  */
 public class LeftDbTreeCell extends TreeCell<DatabaseConfig> {
     private HBox hbox;

@@ -1,7 +1,5 @@
 package com.zzg.mybatis.generator.bridge;
 
-import com.jcraft.jsch.Session;
-import com.zzg.mybatis.generator.controller.PictureProcessStateController;
 import com.zzg.mybatis.generator.model.DatabaseConfig;
 import com.zzg.mybatis.generator.model.DbType;
 import com.zzg.mybatis.generator.model.GeneratorConfig;
