@@ -1,7 +1,7 @@
 package com.zzg.mybatis.generator;
 
-import com.zzg.mybatis.generator.controller.MainUIController;
-import com.zzg.mybatis.generator.util.ConfigHelper;
+import com.zzg.mybatis.generator.controllers.MainUIController;
+import com.zzg.mybatis.generator.utils.ConfigHelper;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -10,7 +10,6 @@ import javafx.stage.Stage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.swing.*;
 import java.net.URL;
 
 /**
